@@ -41,7 +41,7 @@ class _LoginPageState extends State<LoginPage> {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: <Widget>[
                         const Text(
-                          "Groupie",
+                          "CircleTalk",
                           style: TextStyle(
                               fontSize: 40, fontWeight: FontWeight.bold),
                         ),
