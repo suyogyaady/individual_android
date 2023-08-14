@@ -150,7 +150,7 @@ class _HomePageState extends State<HomePage> {
                           },
                           icon: const Icon(
                             Icons.cancel,
-                            color: Colors.red,
+                            color: Colors.lightBlue,
                           ),
                         ),
                         IconButton(
@@ -229,7 +229,7 @@ class _HomePageState extends State<HomePage> {
                                   borderRadius: BorderRadius.circular(20)),
                               errorBorder: OutlineInputBorder(
                                   borderSide:
-                                      const BorderSide(color: Colors.red),
+                                      const BorderSide(color: Colors.lightBlue),
                                   borderRadius: BorderRadius.circular(20)),
                               focusedBorder: OutlineInputBorder(
                                   borderSide: BorderSide(
