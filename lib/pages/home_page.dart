@@ -330,7 +330,7 @@ class _HomePageState extends State<HomePage> {
             height: 20,
           ),
           const Text(
-            "You've not joined any groups, tap on the add icon to create a group or also search from top search button.",
+            "You've not joined any groups, tap on the add icon to create a group or also search a group from top right search button.",
             textAlign: TextAlign.center,
           )
         ],
